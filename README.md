@@ -1,6 +1,6 @@
 # Deep Learning for Risky Activity Detection in RGB Videos
 
-This repository contains the implementation and results of a research project focused on using deep learning techniques to classify risky activities in RGB videos. The project leverages a relabeled subset of the NTU RGB+D 120 dataset to evaluate the performance of various models in identifying risky versus non-risky activities.
+This repository contains the implementation and results of a research project focused on using deep learning techniques to classify risky activities in RGB videos. The project leverages a relabeled subset of the NTU RGB+D 120 dataset to evaluate the performance of various models in identifying risky versus non-risky activities. Demo video can be found [here](https://youtu.be/rs6FhPj3d8g). 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,7 +15,7 @@ This repository contains the implementation and results of a research project fo
 ---
 
 ## Introduction
-Human Activity Recognition (HAR) is a critical field in artificial intelligence, with applications in surveillance, security, and public safety. This project addresses the specific challenge of detecting risky activities using only RGB video data, without relying on depth or skeletal information. Demo video can be found [here](https://youtu.be/rs6FhPj3d8g). 
+Human Activity Recognition (HAR) is a critical field in artificial intelligence, with applications in surveillance, security, and public safety. This project addresses the specific challenge of detecting risky activities using only RGB video data, without relying on depth or skeletal information.
 
 ### Key Research Questions:
 1. Can deep learning models effectively detect risky activities using RGB video data alone?
