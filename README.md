@@ -1,5 +1,7 @@
 # Deep Learning for Risky Activity Detection in RGB Videos
 
+![Alt text](img.png)
+
 This repository contains the implementation and results of a research project focused on using deep learning techniques to classify risky activities in RGB videos. The project leverages a relabeled subset of the NTU RGB+D 120 dataset to evaluate the performance of various models in identifying risky versus non-risky activities. Demo video can be found [here](https://youtu.be/rs6FhPj3d8g). 
 
 ## Table of Contents
