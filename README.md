@@ -98,4 +98,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 3. Liu, Ze, et al. *Video Swin Transformer.* [Link](https://arxiv.org/abs/2106.13230)
 4. Carreira, Joao, et al. *Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset.* [Link](https://arxiv.org/abs/1705.07750)
 5. Rath, Sovit Ranjan. *Training a Video Classification Model from torchvision.* [Link](https://debuggercafe.com/training-a-video-classification-model/)
-```
